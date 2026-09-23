@@ -92,7 +92,7 @@ Backend
   Uvicorn
 AI / LLM
   Groq
-  Llama 3.1 8B Instant
+  Qwen 3.8 27B
   LangChain Groq
 APIs & Services
   Google Drive API
